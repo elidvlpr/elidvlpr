@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @elidvlpr
-- 👀 I’m love listening to music ...
-- 🌱 I’m currently learning (newbie) ...
-- 😄 She/they: ...
-- ⚡ Fun fact: Have goals but lazy...
-
-<!---
-elidvlpr/elidvlpr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! I’m a passionate web developer focused on building efficient and user-friendly systems. 
+Currently working on projects like a College Grading System (using HTML, CSS, PHP, and MySQL) and a School Website Design Page.
+I love solving problems, streamlining processes, and creating clean, responsive designs.

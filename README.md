@@ -1,1 +1,1 @@
-👋 Hi there! I offer web development services using HTML, CSS, PHP, and JavaScript. I also have skills in graphic design. I am dedicated, hardworking, and always focused on delivering high-quality work.
+It’s not about how fast you learn, but how much you’re willing to keep going.
